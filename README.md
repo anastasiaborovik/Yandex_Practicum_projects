@@ -2,6 +2,7 @@
 | Название проекта | Описание | Инструменты |
 | :--------: | :-------: | :-------: |
 | [Отток клиентов оператора связи](https://github.com/anastasiaborovik/Yandex_Practicum_projects/tree/main/Predicting_churn_telecom) | Спрогнозировала вероятность оттока клиентов для оператора связи | python, pandas, numpy, sklearn, seaborn, lightgbm, catboost, phik |
+| [Анализ поведения пользователей сервиса аренды](https://github.com/anastasiaborovik/Yandex_Practicum_projects/tree/main/Statistical_analysis_scooters) | Исследовала поведение пользователей, проверила статистические гипотезы о различиях между тарифами | python, pandas, numpy, matplotlib, scipy |
 | [Определение возраста покупателей по фотографии](https://github.com/anastasiaborovik/Yandex_Practicum_projects/tree/main/CV_Determining_buyer_age) | Создала модель на основе ResNet50 для определение возраста покупателей по фото | python, tensorflow, keras, resnet50, pandas, matplotlib |
 | [Классификация токсичных комментариев](https://github.com/anastasiaborovik/Yandex_Practicum_projects/tree/main/NLP_Comment_classification) | Обучила модель для определения негативных комментариев, что ускорит процесс модерации | python, pandas, sklearn, lightgbm, seaborn, tf-idf, nltk, optuna |
 | [Определение рыночной стоимости автомобилей](https://github.com/anastasiaborovik/Yandex_Practicum_projects/tree/main/Car_price_prediction) | Обучила модель для предсказания стоимости авто на основе их характеристик. Выявила ключевые признаки, влияющие на цену | python, pandas, numpy, sklearn, seaborn, lightgbm, optuna |
